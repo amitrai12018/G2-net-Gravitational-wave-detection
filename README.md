@@ -48,17 +48,23 @@ Sample image of the preprocessed image is shown below:
    * The best models for each fold is saved
    * Follwoing are the 4 fold Training and validation output distribution results and accuracies 
       * Fold 1
-      * Model Prediction distribution for fold 1 ![image](https://user-images.githubusercontent.com/45662797/132477413-25706cca-b766-4fca-a9df-2bee79019229.png)
-      * Training and crossvalidation graph ![image](https://user-images.githubusercontent.com/45662797/132477616-cf6e057a-e226-43e8-83e3-f5cac5fde1ee.png)
+      > Model Prediction distribution for fold 1 ↑ ![image](https://user-images.githubusercontent.com/45662797/132477413-25706cca-b766-4fca-a9df-2bee79019229.png)
+      
+      > Training and crossvalidation graph ↓ ![image](https://user-images.githubusercontent.com/45662797/132477616-cf6e057a-e226-43e8-83e3-f5cac5fde1ee.png)
        * Fold 2
-      * Model Prediction distribution for fold 1 ![image](https://user-images.githubusercontent.com/45662797/132478210-0e321e6a-575a-456f-997c-9a5089f201ee.png)
-      * Training and crossvalidation graph ![image](https://user-images.githubusercontent.com/45662797/132478252-627ca2df-474b-46d2-9831-38b258f733a8.png)
+      > Model Prediction distribution for fold 1 ↑ ![image](https://user-images.githubusercontent.com/45662797/132478210-0e321e6a-575a-456f-997c-9a5089f201ee.png)
+      
+      > Training and crossvalidation graph ↓![image](https://user-images.githubusercontent.com/45662797/132478252-627ca2df-474b-46d2-9831-38b258f733a8.png)
       * Fold 3
-      * Model Prediction distribution for fold 3 ![image](https://user-images.githubusercontent.com/45662797/132478359-2e11c7d7-225f-47cc-bfd1-de0bd3762d86.png)
-      * Training and crossvalidation graph ![image](https://user-images.githubusercontent.com/45662797/132478390-b6e57b38-dd24-44d1-8c2f-97a009bb2c6e.png)
+      > Model Prediction distribution for fold 3 ↑ ![image](https://user-images.githubusercontent.com/45662797/132478359-2e11c7d7-225f-47cc-bfd1-de0bd3762d86.png)
+      
+      > Training and crossvalidation graph ↓![image](https://user-images.githubusercontent.com/45662797/132478390-b6e57b38-dd24-44d1-8c2f-97a009bb2c6e.png)
       * Fold 4
-      * Model Prediction distribution for fold 4 ![image](https://user-images.githubusercontent.com/45662797/132478531-8b903295-84ba-43ad-a178-6078ae89390a.png)
-      * Training and crossvalidation graph ![image](https://user-images.githubusercontent.com/45662797/132478572-bcd0f610-fd53-4486-b6ed-5aa45020121c.png)
+      > Model Prediction distribution for fold 4 ↑
+       ![image](https://user-images.githubusercontent.com/45662797/132478531-8b903295-84ba-43ad-a178-6078ae89390a.png)
+       
+      >  Training and crossvalidation graph ↓
+       ![image](https://user-images.githubusercontent.com/45662797/132478572-bcd0f610-fd53-4486-b6ed-5aa45020121c.png)
    
 ### Model Testing 
    * For Model testing, Ensemble of these 4 models is used to predict the output, the testing accuracy is found to be 0.82
