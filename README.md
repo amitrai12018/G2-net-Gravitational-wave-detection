@@ -10,7 +10,7 @@ The gravitational wave detector that were used to detect the waves have inherent
 So researchers are trying out data analysis techniques to automate the process of signal detection i.e. to find if the output signal from detector is only **'noise'** or is it **'signal+noise'**.
 Following is a video on resource for understanding about data collection by detecting signal from LIGO signal detector is explained :
 [![Everything Is AWESOME](https://user-images.githubusercontent.com/45662797/132456307-31920ee2-4662-495c-916f-930003ec4406.png)](https://www.youtube.com/watch?v=B4XzLDM3Py8 "LIGO")
- *(click on the image to go to url)*
+ *(click on the image to see the video)*
 ## Approach to signal detection using Deep learning Techniques.
     Basically we see this problem as binary classification problem on if the signal is detected or not.
 ### Dataset of various output signals 
