@@ -9,6 +9,7 @@ Detect gravitational wave signals from noise + signal detected binary black hole
 The gravitational wave detector that were used to detect the waves have inherent noise in their output signal. So say that when the output is produced we donot clearly distinguish whether that is a noise of that contains some signal too (**Imagine the probability of (merging of black hole and of getting the signal in the detector present on the earth**).
 So researchers are trying out data analysis techniques to automate the process of signal detection i.e. to find if the output signal from detector is only **'noise'** or is it **'signal+noise'**.
 A very good resource for reading about signal detection is :
+<img src="https://i.ytimg.com/vi/B4XzLDM3Py8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvrgLFZfQY1OGBWUPCdV9oEIIhLg" alt="alt text" width="whatever" height="whatever">
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/B4XzLDM3Py8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvrgLFZfQY1OGBWUPCdV9oEIIhLg | width=100)](https://www.youtube.com/watch?v=B4XzLDM3Py8)
 
 
